@@ -1,1 +1,6 @@
-h {border-top-style: dotted 15px ;}
+h {
+  border-top-style: dotted 15px;
+}
+.body {
+  color: aqua;
+}
